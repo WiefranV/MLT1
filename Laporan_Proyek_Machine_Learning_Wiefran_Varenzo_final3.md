@@ -138,8 +138,7 @@ Untuk memahami struktur dan distribusi data, beberapa tahapan EDA dilakukan seba
 
    * Hasil: Tidak ditemukan nilai NaN dalam dataset.
 
-   >![1748101843789](image/Laporan_Proyek_Machine_Learning_Wiefran_Varenzo/1748101843789.png)
-   
+   >[Deskripsi Gambar](images/1.png)
    >![1748101869309](image/Laporan_Proyek_Machine_Learning_Wiefran_Varenzo/1748101869309.png)
 
 
